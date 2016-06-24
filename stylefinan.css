@@ -1,0 +1,17 @@
+/*estilo del reto 6 finanzas <button type="button" class="btn btn-info"><p>Hogar</p></button>*/
+
+.ws{
+float: right;
+}
+td{
+	color:#BDBDBD;
+	width: 20px;
+}
+
+a{
+ color:#BDBDBD;	
+}
+
+b{
+font-size: 25px;
+}

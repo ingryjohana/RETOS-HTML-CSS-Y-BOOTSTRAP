@@ -1,0 +1,43 @@
+/*estilo del reto 3 indexpeli*/
+body{
+	font-family: helvetica neue;
+	font color: #333;
+	font-size: 16px;
+}
+
+.movie{	
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	background-color: whitesmoke; 
+	margin:20px;
+	padding: 20px 20px;
+}
+
+nav{
+	background-color: whitesmoke;
+	padding: 10px 2px 10px 2px;
+}
+
+img{
+	width: 100%;
+	height: 80px;
+}
+
+h2{
+	font-size: 16px;
+}
+h1{
+	margin: 0px;
+}
+a{
+	font-size: 12px;
+}
+
+
+/*estilo del reto 4 welcome*/
+
+/*https://slack-files.com/files-pri-safe/T1GCUAVPX-F1GQ6EXBL/htmlcssbootstrap.pdf?c=1465916610-c3ba4090881df21fbefe127a7a236b4929d48992*/+
+
+
+
